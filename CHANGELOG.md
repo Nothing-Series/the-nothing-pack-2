@@ -24,8 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Recipe of Mushroom Stew uses now not poisend Mushrooms
 - Updated Nothing Core to let passive mobs spawn again
 
-### Removed
-
 ## [0.0.1-alpha]
 
 ### Added
