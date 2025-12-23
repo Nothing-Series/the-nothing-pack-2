@@ -1,8 +1,8 @@
 # The Nothing Pack 2 - Minecraft Modpack by Nothing-Series
 
 > ⚠️ **Warning**  
-> This repository has moved to [Gitea](https://gitea.com/Akoto090/the-nothing-pack-2/src/branch/main).  
-> Issues remain here, but code and releases are only on Gitea.
+> This repository has moved to my custom [git instance](https://git.akoto.dev/akoto090/the-nothing-pack-2).  
+> Issues remain here, but code and releases are only on my git.
 
 Welcome to the Season 2 of the Nothing Pack by Nothing-Series!
 This modpack is a breath of fresh air and aims to create a new experience in the repetitive Minecraft world.
